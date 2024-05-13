@@ -1,7 +1,7 @@
 # Mastermind
 
 ## Overview
-Mastermind is a C# console game built in NET8.0.  A collection of random numbers is generated and you must correctly guess all of the numbers in their exact locations to win!
+Mastermind is a C# console game built in NET8.0.  A collection of random numbers are generated and you must correctly guess all of the numbers in their exact locations to win!
 
 ## Installation
 1.  Install Visual Studio.
