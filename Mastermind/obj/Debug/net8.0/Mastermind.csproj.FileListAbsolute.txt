@@ -1,0 +1,14 @@
+C:\Users\barry\workspace\LinkedIn\Mastermind\Mastermind\bin\Debug\net8.0\Mastermind.exe
+C:\Users\barry\workspace\LinkedIn\Mastermind\Mastermind\bin\Debug\net8.0\Mastermind.deps.json
+C:\Users\barry\workspace\LinkedIn\Mastermind\Mastermind\bin\Debug\net8.0\Mastermind.runtimeconfig.json
+C:\Users\barry\workspace\LinkedIn\Mastermind\Mastermind\bin\Debug\net8.0\Mastermind.dll
+C:\Users\barry\workspace\LinkedIn\Mastermind\Mastermind\bin\Debug\net8.0\Mastermind.pdb
+C:\Users\barry\workspace\LinkedIn\Mastermind\Mastermind\obj\Debug\net8.0\Mastermind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barry\workspace\LinkedIn\Mastermind\Mastermind\obj\Debug\net8.0\Mastermind.AssemblyInfoInputs.cache
+C:\Users\barry\workspace\LinkedIn\Mastermind\Mastermind\obj\Debug\net8.0\Mastermind.AssemblyInfo.cs
+C:\Users\barry\workspace\LinkedIn\Mastermind\Mastermind\obj\Debug\net8.0\Mastermind.csproj.CoreCompileInputs.cache
+C:\Users\barry\workspace\LinkedIn\Mastermind\Mastermind\obj\Debug\net8.0\Mastermind.dll
+C:\Users\barry\workspace\LinkedIn\Mastermind\Mastermind\obj\Debug\net8.0\refint\Mastermind.dll
+C:\Users\barry\workspace\LinkedIn\Mastermind\Mastermind\obj\Debug\net8.0\Mastermind.pdb
+C:\Users\barry\workspace\LinkedIn\Mastermind\Mastermind\obj\Debug\net8.0\Mastermind.genruntimeconfig.cache
+C:\Users\barry\workspace\LinkedIn\Mastermind\Mastermind\obj\Debug\net8.0\ref\Mastermind.dll
