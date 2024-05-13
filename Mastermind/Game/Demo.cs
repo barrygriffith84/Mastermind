@@ -47,7 +47,7 @@ namespace MasterMind.Game
 
             Console.WriteLine();
 
-            Console.WriteLine("You have guessed two of the numbers correctly, but only on of them is in the correct location in the order.");
+            Console.WriteLine("You have guessed two of the numbers correctly, but only one of them is in the correct location in the order.");
 
             Console.WriteLine();
 
